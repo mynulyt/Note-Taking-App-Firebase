@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755013961793",
+    "project_id": "flutter-firebase-apk-424d4",
+    "storage_bucket": "flutter-firebase-apk-424d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755013961793:android:86ca020c6e3fecdec8dec0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkAlwSAPxJe894zDRNwcfSjIIr8lDj_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
